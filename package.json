@@ -1,0 +1,29 @@
+{
+  "name": "crafatarnode",
+  "version": "1.0.0",
+  "description": "A blazing fast Node.JS minecraft skin render client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingJWilliams/CrafatarNode.git"
+  },
+  "keywords": [
+    "minecraft",
+    "node",
+    "skin",
+    "head",
+    "crafatar"
+  ],
+  "author": "Jay Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codingJWilliams/CrafatarNode/issues"
+  },
+  "homepage": "https://github.com/codingJWilliams/CrafatarNode#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
